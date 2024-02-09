@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.css": "css",
+    "future": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "random": "cpp",
+    "chrono": "cpp",
+    "iosfwd": "cpp",
+    "ostream": "cpp"
+  }
+}
