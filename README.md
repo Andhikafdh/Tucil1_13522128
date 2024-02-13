@@ -5,10 +5,7 @@ Tugas Kecil 1 Mata Kuliah IF2211 Strategi Algoritma 2023/2024
 ## **Table of Contents**
 
 - [General Information](#general-information)
-- [Requirements](#requirements)
 - [How to Run and Compile](#how-to-run-and-compile)
-- [Screenshot](#screenshot)
-- [Program Structure](#program-structure)
 - [Author](#author)
 
 ## **General Information**
@@ -25,24 +22,12 @@ Electronics) pada permainan Cyberpunk 2077. Komponen pada permainan ini antara l
 Tujuan dibuatnya program ini yaitu untuk menemukan solusi dari permainan Cyberpunk 2077 Breach Protocol yang paling optimal untuk
 setiap kombinasi matriks, sekuens, dan ukuran buffer dengan menggunakan algoritma brute force.
 
-## **Requirements**
-
-Lorem Ipsum
-
 ## **How to Run and Compile**
-
-Lorem Ipsum
-
-## **Screenshot**
-
-Lorem Ipsum
-
-## **Program Structure**
-
-Lorem Ipsum
+1. cd src
+2. python main.py
 
 ## **Author**
 
 | NIM      | Name                      | Class |
 | -------- | ------------------------- | ----- |
-| 13522128 | Mohammad Andhika Fadillah | K02   |
+| 13522128 | Mohammad Andhika Fadillah |  K03  |

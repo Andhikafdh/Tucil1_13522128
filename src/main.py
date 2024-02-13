@@ -82,7 +82,7 @@ def pola(matrix, buffer_size, sequences, points):
 
 def main():
     tampilan_awal()
-    buffer_size, matrix, sequences, points = txtInput('tc6.txt')
+    buffer_size, matrix, sequences, points = txtInput('tc1.txt')
     start_time = time.time()
     print("\n")
     maximal_point, optimal_path = pola(matrix, buffer_size, sequences, points)
